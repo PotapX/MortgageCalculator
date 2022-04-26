@@ -6,5 +6,4 @@ class MortgageCalculatorApp(MDApp):
     def build(self):
         return MDLabel(text="Hello, MortgageCalculator", halign="center")
 
-
 MortgageCalculatorApp().run()
